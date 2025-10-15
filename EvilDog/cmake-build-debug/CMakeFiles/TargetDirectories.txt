@@ -1,0 +1,3 @@
+/Users/alanna/CLionProjects/EvilDog/cmake-build-debug/CMakeFiles/EvilDog.dir
+/Users/alanna/CLionProjects/EvilDog/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alanna/CLionProjects/EvilDog/cmake-build-debug/CMakeFiles/rebuild_cache.dir
